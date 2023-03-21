@@ -6,5 +6,5 @@ Just an ordinary web frontend programmer.
 ### Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WCeasar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![WCeasar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=WCeasar&theme=dracula)](https://github.com/WCeasar
+[![WCeasar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=WCeasar&theme=react)](https://github.com/WCeasar
 )
