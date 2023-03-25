@@ -7,7 +7,7 @@ Just an ordinary web frontend programmer.
 - 🎉 Know the truth, you can be truly free
 
 ### Language
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![WCeasar's GitHub stats](https://github-readme-stats.vercel.app/api?username=WCeasar&show_icons=true&theme=radical)
 
 [![WCeasar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=WCeasar&theme=react)](https://github.com/WCeasar
 )
