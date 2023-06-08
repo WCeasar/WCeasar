@@ -13,6 +13,3 @@ Just an ordinary web frontend programmer.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WCeasar&hide=javascript,html)](https://github.com/WCeasar)
 
-
-[![WCeasar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=WCeasar&theme=react)](https://github.com/WCeasar)
-
